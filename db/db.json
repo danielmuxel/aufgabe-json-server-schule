@@ -1,0 +1,10 @@
+{
+  "news": [
+    { "id": 1, "title": "Corona", "content": "Maskenpflicht" },
+    { "id": 2, "title": "Osterferien", "content": "Bitte nicht verreisen und nicht nach Mallorca gehen." }
+  ],
+  "events": [
+    { "id": 1, "title": "Impfstation", "date": "2021-04-30", "description": "Alle über 13 jahre können sich Impfen lassen"},
+    { "id": 1, "title": "Teststation", "date": "2021-04-01", "description": "Massentests sind eröffnet."}
+  ]
+}
