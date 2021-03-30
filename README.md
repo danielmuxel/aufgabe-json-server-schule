@@ -20,7 +20,7 @@ npm run build
 - CreateNews mit einem Formular (POST)
 - Probieren kannst PUT und DELETE (DELETE einfacher)
 - Events das gleiche, soweit wie möglich
-- Bulma design ausprobieren
+- [Bulma Design ausprobieren](https://bulma.io/documentation/) 
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
